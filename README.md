@@ -4,7 +4,7 @@ This is the eighth project I completed in the "Data Analyst in Python" and "Data
 
 ## Prerequisites
 
-This project requires both the jupyter notebook as well as the `DB` file containing the database with the raw information.
+This project requires both the Jupyter notebook as well as the `DB` file containing the database with the raw information.
 
 ### Prerequisites
 
